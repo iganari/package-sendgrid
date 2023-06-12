@@ -17,3 +17,15 @@ SendGrid でのアカウント登録方法です
 ## 使い方
 
 WIP
+
+## 以下は解析中のメモ
+
+```
+Python の公式サンプル
+https://sendgrid.kke.co.jp/docs/Integrate/Code_Examples/v2_Mail/python.html
+```
+
+```
+Python のサンプルコード | GitHub
+https://github.com/sendgrid/sendgrid-python#example
+```
